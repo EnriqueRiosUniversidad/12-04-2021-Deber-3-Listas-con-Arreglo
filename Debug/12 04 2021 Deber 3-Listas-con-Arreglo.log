@@ -1,0 +1,10 @@
+﻿  ALista Enrique Rios.c
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(46,10): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 2 tiene el tipo 'int *'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(61,41): warning C4047: '=': 'void *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(67,40): warning C4047: '=': 'void *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(87,27): warning C4047: '=': 'void *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(108,25): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'void *'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(111,19): warning C4047: '=': 'void **' es distinto en los niveles de direccionamiento indirecto de 'int *'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(105,1): warning C4047: 'inicializando': 'int *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\ALista Enrique Rios.c(122,30): warning C4047: '==': 'void *' es distinto en los niveles de direccionamiento indirecto de 'int'
+  12 04 2021 Deber 3-Listas-con-Arreglo.vcxproj -> C:\Users\elcuervo\source\repos\12 04 2021 Deber 3-Listas-con-Arreglo\Debug\12 04 2021 Deber 3-Listas-con-Arreglo.exe
